@@ -1,5 +1,7 @@
 Week 3 Lab 1 Assignment
 ________________________________________
+New changes to the code.
+
 Instructions:
 Complete the following hands-on labs:
 •	Chapter 6 - Managing Your Source Code with Git:
