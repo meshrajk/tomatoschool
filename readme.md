@@ -1,6 +1,6 @@
-Week 3 Lab 1 Assignment
+Week 3 Lab 2 Assignment
 ________________________________________
-New changes to the code.
+Lets trigger the jenkins from the push.
 
 Instructions:
 Complete the following hands-on labs:
